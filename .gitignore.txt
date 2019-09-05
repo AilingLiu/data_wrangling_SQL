@@ -1,0 +1,7 @@
+*.zip
+*.txt
+*.doc
+*.xls
+*.csv
+*.xlxs
+*.gzip
